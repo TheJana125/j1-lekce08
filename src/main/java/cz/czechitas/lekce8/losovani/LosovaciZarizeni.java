@@ -5,6 +5,7 @@ import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+ 
 /**
  * Třída pro losování náhodných čísel.
  */
